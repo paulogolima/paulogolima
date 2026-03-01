@@ -12,7 +12,7 @@
 
 <div align="center">
   
-🎓 Estudante de **ADS** • 💻 **1 ano** programando • 🚀 Focado em **Full Stack** • 💡 Buscando **1ª oportunidade**
+🎓 Estudante de **ADS** • 💻 **3º** período • 🚀 Focado em **Back End** • 💡 Buscando **1ª oportunidade**
 
 </div>
 
