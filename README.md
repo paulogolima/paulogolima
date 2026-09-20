@@ -1,148 +1,111 @@
-<div align="center">
-  <samp>
-    <b>プ ロ グ ラ マ</b>
-    <br>
-    Olá! Eu sou o <b>Paulo</b>.
-  </samp>
-</div>
-
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img
-        width="90%"
-        src="https://raw.githubusercontent.com/hak553/photoToProfile/main/Programming%20Computer.svg"
-        alt="Developer Laptop"
-      >
-    </td>
-    <td width="60%" align="center" valign="middle">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=600&size=20&center=true&lines=Meu%20foco%20%C3%A9%20Desenvolvimento%20Back-end;Sou%20estudante%20de%20ADS;Atualmente%20estudando%20C%23%20e%20.NET"
-        alt="Typing SVG"
-      >
-      <br><br>
-      <b>Back-end</b>
-      <br><br>
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg">
-      <br><br>
-      <b>Front-end</b>
-      <br><br>
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-      <br><br>
-      <b>Banco de Dados</b>
-      <br><br>
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-      <br><br>
-      <b>Ferramentas</b>
-      <br><br>
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-      <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
 
-## 📊 GitHub Stats
+<div style="display: inline-block; vertical-align: middle; width: 72%;">
 
-<br>
-
-<img
-  height="170"
-  src="https://github-readme-stats.shion.dev/api?username=paulogolima&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
->
-
-<img
-  height="170"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=paulogolima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
->
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com/?user=paulogolima&theme=dark&hide_border=false"
->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=700&lines=HELLO%2C+MY+NAME+IS+PAULO;C%23+%7C+.NET+DEVELOPER;FULL+STACK+DEVELOPER+IN+TRAINING)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+<div style="display: inline-block; vertical-align: middle; width: 22%;">
 
----
-
-<div align="center">
-
-## 💫 Sobre mim
+<img width="180px" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 
 </div>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Desenvolvimento Back-end**.
-
-Possuo experiência prática com **Node.js, Express, APIs REST, MySQL e PostgreSQL**, além de conhecimentos em **HTML, CSS, JavaScript e React**.
-
-Atualmente, estou aprofundando meus conhecimentos em **C#, .NET e ASP.NET Core**, com foco em desenvolvimento back-end, Programação Orientada a Objetos, APIs e regras de negócio.
-
-<br>
+</div>
 
 ---
 
+## GitHub Stats
+
 <div align="center">
 
-## 🚀 Projetos
+<img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=paulogolima&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Paulo github stats"/>
+
+<img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=paulogolima&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top languages"/>
 
 </div>
 
-### 🛒 Controle de Estoque
+---
 
-Aplicação de console desenvolvida em **C# / .NET** para gerenciamento de produtos, utilizando Programação Orientada a Objetos, coleções e regras de negócio.
+## About Me
 
-### 📋 Kanban Task Manager API
+<p align="center">
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor em formação,
+  com foco em <strong>C# e .NET</strong>.
+</p>
 
-API REST desenvolvida com **Node.js, Express e MySQL**, com autenticação JWT, Bcrypt, Sequelize e operações CRUD para gerenciamento de tarefas e projetos.
+<p align="center">
+  Atualmente, estou aprofundando meus conhecimentos em
+  <strong>ASP.NET Core, APIs REST, Entity Framework Core, LINQ e bancos de dados</strong>.
+</p>
 
-### 🐾 Pet Care
-
-Aplicação web desenvolvida com **Node.js, Express e MySQL**, utilizando autenticação JWT, Bcrypt e integração entre front-end e back-end.
-
-<br>
+<p align="center">
+  Também possuo conhecimentos em <strong>JavaScript, React, HTML e CSS</strong>,
+  complementando minha formação em desenvolvimento Full Stack.
+</p>
 
 ---
 
+## Technologies & Tools
+
+### Main Skills
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)&nbsp;
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+
+### Other Knowledge
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+
+---
+
+## Currently Studying
+
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)&nbsp;
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=csharp&logoColor=white)&nbsp;
+
+---
+
+## Connect With Me
+
 <div align="center">
-
-## 🌐 Contato
-
-<br>
 
 <a href="https://github.com/paulogolima">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/_paulolima._">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.linkedin.com/in/paulogolima/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:paulogolimacontato@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=paulogolima&style=flat-square&color=9400D3">
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
