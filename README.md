@@ -4,7 +4,7 @@
 
 <div style="display: inline-block; vertical-align: middle; width: 72%;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=700&lines=HELLO%2C+MY+NAME+IS+PAULO;C%23+%7C+.NET+DEVELOPER;FULL+STACK+DEVELOPER+IN+TRAINING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=32&center=true&vCenter=true&width=700&lines=HELLO%2C+MY+NAME+IS+PAULO;BACK-END+DEVELOPER+IN+TRAINING;C%23+%7C+.NET+DEVELOPER)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e desenvolvedor em formação,
-  com foco em <strong>C# e .NET</strong>.
+  com foco em <strong>Back-end, C# e .NET</strong>.
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <p align="center">
   Também possuo conhecimentos em <strong>JavaScript, React, HTML e CSS</strong>,
-  complementando minha formação em desenvolvimento Full Stack.
+  como complemento à minha formação em desenvolvimento web.
 </p>
 
 ---
